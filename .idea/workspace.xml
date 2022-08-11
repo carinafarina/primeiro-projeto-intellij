@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd44fdf2-2ec6-4002-b537-0b4f2c0cbf37" name="Changes" comment="">
+    <list default="true" id="bd44fdf2-2ec6-4002-b537-0b4f2c0cbf37" name="Changes" comment="Projeto para conhecer ide Intellij">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro-projeto-intellij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/model/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +22,21 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d881acf3-37ca-4809-84e4-9d8d904b7c7c" />
+        <option name="url" value="https://github.com/carinafarina/CURSODEJAVA-DIO" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +53,38 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.dio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PrimeiroPrograma (2)">
+    <configuration name="PrimeiroPrograma (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.PrimeiroPrograma" />
+      <module name="primeiro-projeto-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeiroPrograma (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.PrimeiroPrograma" />
+      <module name="primeiro-projeto-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.PrimeiroPrograma" />
       <module name="primeiro-projeto-intellij" />
@@ -60,7 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeiroPrograma (2)" />
         <item itemvalue="Application.PrimeiroPrograma" />
+        <item itemvalue="Application.PrimeiroPrograma (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -73,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660209594428</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto para conhecer ide Intellij">
+      <created>1660211390384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660211390384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto para conhecer ide Intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto para conhecer ide Intellij" />
   </component>
 </project>
